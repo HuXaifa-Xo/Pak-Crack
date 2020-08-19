@@ -10,7 +10,7 @@
 <img src="ss.png">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Huxaifa-Xo"><img title="Author" src="https://img.shields.io/badge/Author-Huzaifa-Baloch-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com"><img title="Author" src="https://img.shields.io/badge/Author-Huzaifa-Baloch-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/HuXaifa-Xo/followers"><img title="Followers" src="https://img.shields.io/github/followers/HuXaifa-Xo?color=blue&style=flat-square"></a>
@@ -34,7 +34,7 @@
 
 `😈 pip2 install mechanize`
 
-`😈 git clone https://github.com/HuXaifa-Xo`
+`😈 git clone https://github.com/HuXaifa-Xo/Ishfaq`
 
 `😈 cd Ishfaq`
 
