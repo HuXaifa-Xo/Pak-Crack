@@ -34,8 +34,10 @@
 
 `😈 pip2 install mechanize`
 
-`😈 git clone https://github.com/HuXaifa-Xo/Ishfaq`
+`😈 git clone https://github.com/HuXaifa-Xo/Pak-Crack`
 
 `😈 cd Ishfaq`
 
 👾 `python2 Huzaifa.py`
+😜`Username : Huzaifa`
+😜`Password : Huzaifa`
